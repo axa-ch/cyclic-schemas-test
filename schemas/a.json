@@ -1,0 +1,17 @@
+{
+	"$schema": "http://json-schema.org/draft-04/schema#",
+	"$id": "http://www.axa.ch/schemas/a.json",
+
+	"type": "object",
+	"properties": {
+		"children": {
+			"type": "array",
+			"items": {
+				"anyOf": [
+					{ "$ref": "http://www.axa.ch/schemas/b.json" },
+					{ "$ref": "http://www.axa.ch/schemas/c.json" }
+				]
+			}
+		}
+	}
+}
