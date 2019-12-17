@@ -1,0 +1,14 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jsonschema2md -o docs/ -x docs/ -d schemas/ -e json"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@adobe/jsonschema2md": "^4.0.0"
+  }
+}
