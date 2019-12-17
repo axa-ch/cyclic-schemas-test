@@ -14,7 +14,7 @@ Result:
 ```sh
 npm run test
 
-> y@1.0.0 test .../dev/cyclic-schemas-test
+> cyclic-schemas-test@1.0.0 test .../dev/cyclic-schemas-test
 > jsonschema2md -o docs/ -x docs/ -d schemas/ -e json
 
 loading schemas
