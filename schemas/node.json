@@ -5,6 +5,22 @@
 	"type": "object",
 	"properties": {
 		"name": { "type": "string" },
-		"parent": { "$ref": "http://www.axa.ch/schemas/node.json" }
+		"parent": { "$ref": "http://www.axa.ch/schemas/node.json" },
+		"children": {
+			"type": "array",
+			"items": {
+				"anyOf": [
+					{ "$ref": "http://www.axa.ch/schemas/node.json" }
+				]
+			}
+		},
+		"siblings": {
+			"type": "array",
+			"items": {
+				"oneOf": [
+					{ "$ref": "http://www.axa.ch/schemas/node.json" }
+				]
+			}
+		}
 	}
 }
