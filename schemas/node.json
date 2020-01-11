@@ -10,7 +10,8 @@
 			"type": "array",
 			"items": {
 				"anyOf": [
-					{ "$ref": "http://www.axa.ch/schemas/node.json" }
+					{ "$ref": "http://www.axa.ch/schemas/node.json" },
+					{ "$ref": "http://www.axa.ch/schemas/unknown.json" }
 				]
 			}
 		},
@@ -18,7 +19,8 @@
 			"type": "array",
 			"items": {
 				"oneOf": [
-					{ "$ref": "http://www.axa.ch/schemas/node.json" }
+					{ "$ref": "http://www.axa.ch/schemas/node.json" },
+					{ "$ref": "http://www.axa.ch/schemas/unknown.json" }
 				]
 			}
 		}

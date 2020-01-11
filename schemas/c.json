@@ -9,7 +9,8 @@
 			"items": {
 				"anyOf": [
 					{ "$ref": "http://www.axa.ch/schemas/a.json" },
-					{ "$ref": "http://www.axa.ch/schemas/b.json" }
+					{ "$ref": "http://www.axa.ch/schemas/b.json" },
+					{ "$ref": "http://www.axa.ch/schemas/unknown.json" }
 				]
 			}
 		}
