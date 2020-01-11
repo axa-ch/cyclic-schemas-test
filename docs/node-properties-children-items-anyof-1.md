@@ -1,7 +1,7 @@
 # Untitled schema Schema
 
 ```txt
-http://www.axa.ch/schemas/node.json#/properties/children/items
+http://www.axa.ch/schemas/node.json#/properties/children/items/anyOf/1
 ```
 
 
@@ -11,11 +11,6 @@ http://www.axa.ch/schemas/node.json#/properties/children/items
 | :------------------ | ---------- | -------------- | ----------------------- | :---------------- | --------------------- | ------------------- | ----------------------------------------------- |
 | Can be instantiated | No         | Unknown status | Unknown identifiability | Forbidden         | Allowed               | none                | [node.json\*](node.json "open original schema") |
 
-## items Type
+## 1 Type
 
-merged type ([Details](node-properties-children-items.md))
-
-any of
-
--   [Untitled object in undefined](node-properties-parent.md "check type definition")
--   [Untitled schema](node-properties-children-items-anyof-1.md "check type definition")
+unknown

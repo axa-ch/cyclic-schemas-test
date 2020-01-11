@@ -18,3 +18,4 @@ merged type ([Details](node-properties-siblings-items.md))
 one (and only one) of
 
 -   [Untitled object in undefined](node-properties-parent.md "check type definition")
+-   [Untitled schema](node-properties-siblings-items-oneof-1.md "check type definition")
