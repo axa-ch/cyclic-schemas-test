@@ -2,6 +2,7 @@
 
 ## Top-level Schemas
 
+-   [Button](./button.md "Renders a Button") – `http://www.example.com/schemas/components/Button.json`
 -   [Untitled object in undefined](./a.md) – `http://www.axa.ch/schemas/a.json`
 -   [Untitled object in undefined](./c.md) – `http://www.axa.ch/schemas/c.json`
 -   [Untitled object in undefined](./node.md) – `http://www.axa.ch/schemas/node.json`
@@ -11,6 +12,7 @@
 
 ### Objects
 
+-   [Properties](./button-properties-properties.md "Properties of Button") – `http://www.example.com/schemas/components/Button.json#/properties/properties`
 -   [Untitled object in undefined](./a-properties-children-items-anyof-1.md) – `http://www.axa.ch/schemas/c.json#/properties/children/items/anyOf/1`
 
 ### Arrays
