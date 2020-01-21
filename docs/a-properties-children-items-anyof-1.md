@@ -17,9 +17,9 @@ http://www.axa.ch/schemas/c.json#/properties/children/items/anyOf/1
 
 # undefined Properties
 
-| Property              | Type    | Required | Nullable       | Defined by                                                                                                                                                                   |
-| :-------------------- | ------- | -------- | -------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [children](#children) | `array` | Optional | cannot be null | [Untitled schema](a-properties-children-items-anyof-1-properties-children.md "http&#x3A;//www.axa.ch/schemas/c.json#/properties/children/items/anyOf/1/properties/children") |
+| Property              | Type    | Required | Nullable       | Defined by                                                                                               |
+| :-------------------- | ------- | -------- | -------------- | :------------------------------------------------------------------------------------------------------- |
+| [children](#children) | `array` | Optional | cannot be null | [Untitled schema](c-properties-children.md "http&#x3A;//www.axa.ch/schemas/c.json#/properties/children") |
 
 ## children
 
@@ -29,10 +29,10 @@ http://www.axa.ch/schemas/c.json#/properties/children/items/anyOf/1
 `children`
 
 -   is optional
--   Type: an array of merged types ([Details](a-properties-children-items-anyof-1-properties-children-items.md))
+-   Type: an array of merged types ([Details](c-properties-children-items.md))
 -   cannot be null
--   defined in: [Untitled schema](a-properties-children-items-anyof-1-properties-children.md "http&#x3A;//www.axa.ch/schemas/c.json#/properties/children/items/anyOf/1/properties/children")
+-   defined in: [Untitled schema](c-properties-children.md "http&#x3A;//www.axa.ch/schemas/c.json#/properties/children")
 
 ### children Type
 
-an array of merged types ([Details](a-properties-children-items-anyof-1-properties-children-items.md))
+an array of merged types ([Details](c-properties-children-items.md))

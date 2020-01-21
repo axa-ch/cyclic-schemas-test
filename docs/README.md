@@ -18,8 +18,8 @@
 ### Arrays
 
 -   [Untitled array in undefined](./a-properties-children.md) – `http://www.axa.ch/schemas/a.json#/properties/children`
--   [Untitled array in undefined](./a-properties-children-items-anyof-1-properties-children.md) – `http://www.axa.ch/schemas/c.json#/properties/children/items/anyOf/1/properties/children`
--   [Untitled array in undefined](./a-properties-children-items-anyof-1-properties-children.md) – `http://www.axa.ch/schemas/c.json#/properties/children`
+-   [Untitled array in undefined](./c-properties-children.md) – `http://www.axa.ch/schemas/c.json#/properties/children`
+-   [Untitled array in undefined](./c-properties-children.md) – `http://www.axa.ch/schemas/c.json#/properties/children`
 -   [Untitled array in undefined](./node-properties-children.md) – `http://www.axa.ch/schemas/node.json#/properties/children`
 -   [Untitled array in undefined](./node-properties-siblings.md) – `http://www.axa.ch/schemas/node.json#/properties/siblings`
 
