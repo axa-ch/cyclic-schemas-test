@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@adobe/jsonschema2md": "^4.0.10"
+    "@adobe/jsonschema2md": "^4.2.2"
   }
 }
